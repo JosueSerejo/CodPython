@@ -1,4 +1,4 @@
-#BeeCrown  - 1006
+#BeeCrowd  - 1006
 
 A = float(input())
 B = float(input())

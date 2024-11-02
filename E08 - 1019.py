@@ -1,4 +1,4 @@
-#BeeCrown - 1019
+#BeeCrowd - 1019
 
 timeSecond = int(input(''))
 
