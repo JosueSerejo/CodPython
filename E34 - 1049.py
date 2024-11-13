@@ -12,8 +12,8 @@ animals = {
 
 }
 
-WordOne = input().strip()
-WordTwo = input().strip()
-WordThree = input().strip()
+WordOne = input()
+WordTwo = input()
+WordThree = input()
 
-print(animals[(WordOne, WordTwo, WordThree)])
+print(animals[WordOne, WordTwo, WordThree])
